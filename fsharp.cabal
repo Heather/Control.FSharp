@@ -1,6 +1,6 @@
 name:       fsharp
-category:   Generics
-version:    0.0.2
+category:   Operators
+version:    0.0.3
 author:        Heather Cynede
 maintainer:    Heather Cynede <Cynede@Gentoo.org>
 license: BSD3
