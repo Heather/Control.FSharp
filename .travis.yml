@@ -15,6 +15,6 @@ before_install:
 
 install: cabal-1.18 update
 script:
-    - cabal-1.18 install --only-dependencies
-	- cabal-1.18 configure
-	- cabal-1.18 build
+ - cabal-1.18 install --only-dependencies
+ - cabal-1.18 configure
+ - cabal-1.18 build
