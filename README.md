@@ -7,6 +7,8 @@ For now:
 
  - high priority pipes : `<|` and `|>`
  
+<b> Hackage: http://hackage.haskell.org/package/fsharp </b>
+ 
 Simple usage example: https://github.com/Heather/Sharingan/commit/729e043fecd21bb754deb63c234ddf93a0d2f5a9
 
 ```haskell
